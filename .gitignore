@@ -18,3 +18,4 @@ yarn-error.log
 /.vscode
 /composer.lock
 /package-json.lock
+db/mysql.sock
