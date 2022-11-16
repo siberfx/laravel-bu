@@ -7,7 +7,7 @@ services:
       dockerfile: .docker/Dockerfile
     image: 'laravel-bu'
     ports:
-      - 80:80
+      - 8000:80
     volumes:
       - ./:/var/www/html
 
